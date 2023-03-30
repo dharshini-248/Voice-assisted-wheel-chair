@@ -1,7 +1,7 @@
 # Voice-assisted-wheel-chair
 
 
-<div id="top"></div>
+
 <!--
 *** Thanks for checking out the Best-README-Template. 
 
@@ -9,52 +9,31 @@
 
 
 
-<!-- PROJECT SHIELDS -->
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 <h3 align="center">Voice assisted smart wheel chair Accessing Google Maps</h3>
 
-  <p align="center">
-    project_description
-
-    <br />
-    Here I will attach the Arduino code to run the prototype device
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-  </p>
-</div>
+ 
 
 
 
 
-## Domain Name
-ABOUT THE PROJECT
+
+
+
 ## Problem Statement
-<!-- ABOUT THE PROJECT -->
+Mostly wheelchair users who uses their manual wheelchair to go out often get hands dirty and there are many times when they have to deal with blisters on their palms and also there are people with both upper and lower limb disabilities.
+Most of the taxi services are not disabled-friendly.Hence ,it is difficult to even go to places.Many disabled people find all that extremely difficult.Due to inaccessibility, they are forced to not go outdoors.
+The world around them is not a walk in the park.They have to face several obstacles in every step they take which is worse for disabled people while moving around in wheelchairs.
+So if a wheelchair user wants to go out on their own,they find it really hard due to inaccessible roads and streets.Every person loves to be independent.It can be quite irritating when they have to rely on someone else for going outdoors.
+
+
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -62,11 +41,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+DHARSHINI - [@Linkedin](https://www.linkedin.com/in/dharshini-m-056843210/) - dharshini24cse@gmail.com
 
 
 
