@@ -1,22 +1,11 @@
 # Voice-assisted-wheel-chair
 
 
-
-<!--
-*** Thanks for checking out the Best-README-Template. 
-
--->
-
-
-
-
-
-
-
-
 <h3 align="center">Voice assisted smart wheel chair Accessing Google Maps</h3>
 
- 
+## Reference sample output video
+
+@youtube - https://youtu.be/yemI4qhYF7g
 
 
 
